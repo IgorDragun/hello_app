@@ -1,4 +1,4 @@
-# Ruby on Rails для начинающих: "hello, world!"
-Это первое приложение для
+## Ruby on Rails for beginner: "hello, world!"
+It is a first application for
 [*RubyonRailsTutorial*](http://www.railstutorial.org/)
-[Майкл Хартл](http://www.michaelhartl.com/).
+[Michael Hartl](http://www.michaelhartl.com/).
